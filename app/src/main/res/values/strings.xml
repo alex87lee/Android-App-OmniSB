@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OmniSB</string>
+
+    <string name="welcom">Omni Search Bar</string>
+    <string name="action_settings">Settings</string>
+    <string name="info_eng">Enter Search Term And Click On Search Engine</string>
+    <string name="info_kor">검색어 입력후 검색엔진을 골라주세요</string>
+    <string name="search_google">Google</string>
+    <string name="search_naver">네이버</string>
+    <string name="search_enha">엔하위키</string>
+
+
+</resources>
